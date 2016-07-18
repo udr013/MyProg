@@ -2,7 +2,12 @@ new file
 in develop
 new edit
 an other edit
+<<<<<<< HEAD
 
 TEST FELIX
+=======
+edit door Bas
+>>>>>>> dcc779dd490ae7ff7f27e6cb38b59fffd8d88d96
 edit door SanderE
 nog een edit door SanderE
+hou eens op Sander
