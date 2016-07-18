@@ -2,20 +2,15 @@ new file
 in develop
 new edit
 an other edit
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 TEST FELIX
-=======
 Aanpassing door DancingRoos
-=======
->>>>>>> 4068e5d8b95405d9189a7cfb3323f22d8f178812
-=======
 edit door Bas
->>>>>>> dcc779dd490ae7ff7f27e6cb38b59fffd8d88d96
 edit door SanderE
 <<<<<<< HEAD
 =======
 nog een edit door SanderE
 hou eens op Sander
+<<<<<<< HEAD
 >>>>>>> 4068e5d8b95405d9189a7cfb3323f22d8f178812
+=======
+>>>>>>> d8fd0249a4d3162d72c70beef7163a2ed3113f52
