@@ -3,8 +3,13 @@ in develop
 new edit
 an other edit
 <<<<<<< HEAD
+<<<<<<< HEAD
+
+TEST FELIX
+=======
 Aanpassing door DancingRoos
 =======
+>>>>>>> 4068e5d8b95405d9189a7cfb3323f22d8f178812
 =======
 edit door Bas
 >>>>>>> dcc779dd490ae7ff7f27e6cb38b59fffd8d88d96
