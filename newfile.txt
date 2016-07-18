@@ -3,5 +3,3 @@ in develop
 new edit
 an other edit
 edit door SanderE
-nog een edit door SanderE
-derde edit door SanderE
