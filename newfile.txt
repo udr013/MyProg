@@ -3,27 +3,30 @@ in develop
 new edit
 gdfbfdsgsdgsfdgfdsg
 zsdfgasfdgqdg
-
 an other edit
 TEST FELIX
 Aanpassing door DancingRoos
 edit door Bas
 edit door SanderE
-
 edit door Marc C.
-
 nog een edit door SanderE
 hou eens op Sander
-
-
 hou eens op Sander
+
 
 Stefan was here
 
 ben opgehouden
-<<<<<<< HEAD
->>>>>>> d9e28d627ede2bf5fc6cc6015713676fc82f587b
-=======
+
+
+
 Wel iets moois maken Dave!
->>>>>>> 5dc10214ea89dfd22ecc26d593424c23a16dafe9
->>>>>>> a7be6b2773ce0b84436e9b07088ee04ed48dd302
+
+
+
+groetjes Judith
+ben opgehouden
+nog een edit van Bas
+Ga door!!
+Wel iets moois maken Dave!
+Stefan last
