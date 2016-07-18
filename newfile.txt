@@ -1,11 +1,17 @@
 new file
 in develop
 new edit
+gdfbfdsgsdgsfdgfdsg
+zsdfgasfdgqdg
+
 an other edit
 TEST FELIX
 Aanpassing door DancingRoos
 edit door Bas
 edit door SanderE
-nog een edit door SanderE
 hou eens op Sander
+<<<<<<< HEAD
 Stefan was here
+
+ben opgehouden
+>>>>>>> d9e28d627ede2bf5fc6cc6015713676fc82f587b
